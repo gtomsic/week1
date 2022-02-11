@@ -23,8 +23,8 @@ const planning =
 ///////////////////////////////////////////////////////
 ///// CODE HERE
 ///////////////////////////////////////////////////////
-const first = 'Planning';
-const second = 'Analysis of Requirements';
+const first = 'Analysis of Requirements';
+const second = 'Planning';
 const third = 'Design';
 const forth = 'Implementation';
 const fifth = 'Testing & Inegration';
