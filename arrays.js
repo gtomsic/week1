@@ -41,9 +41,9 @@ const answers = [];
 // CODE HERE
 for (let i = 0; i < bigOrSmallArray.length; i++) {
   if (bigOrSmallArray[i] > 100) {
-    answers.push(`${bigOrSmallArray[i]}`);
+    answers.push(`big ${bigOrSmallArray[i]}`);
   } else if (bigOrSmallArray[i] <= 100) {
-    answers.push(`${bigOrSmallArray[i]}`);
+    answers.push(`small ${bigOrSmallArray[i]}`);
   }
 }
 
